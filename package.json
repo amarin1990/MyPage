@@ -1,0 +1,15 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "My own page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andres",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
